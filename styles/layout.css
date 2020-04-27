@@ -103,7 +103,17 @@ h1, h2, h3, h4, h5, h6{margin:0; padding:0; font-size:20px; font-weight:normal; 
 #container #content #organizers ul li.even{float:right;}
 #container #content #organizers ul li img.organizer{width:150px; height:180px; margin:0 0 15px 0; padding:4px; border:1px solid #666666;}
 
+#container #content #organizers img.organizer{width:150px; height:180px; margin:0 0 15px 0; padding:4px; border:1px solid #666666;}
+
 /*----------------------------------------------Footer-------------------------------------*/
 
 #footer{}
 #footer p{margin:0; padding:20px 0;}
+
+
+
+
+
+article {
+	padding-top: 20px;
+}
