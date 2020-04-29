@@ -20,6 +20,7 @@ code{font-weight:normal; font-style:normal; font-family:Georgia, "Times New Roma
 .fl_left{float:left;}
 .fl_right{float:right;}
 
+
 img{margin:0; padding:0; border:none; line-height:normal; vertical-align:middle;}
 .imgholder, .imgl, .imgr{padding:4px; border:1px solid #D6D6D6; text-align:center;}
 .imgl{float:left; margin:0 15px 15px 0; clear:left;}
@@ -59,6 +60,7 @@ h1, h2, h3, h4, h5, h6{margin:0; padding:0; font-size:20px; font-weight:normal; 
 #header #hgroup h1, #header #hgroup h2{}
 #header #hgroup h1{font-size:33px;}
 #header #hgroup h2{font-size:13px;}
+img#qsetlogo{float:left !important; width:190px !important; margin: 0px 50px 10px 0px !important}
 
 #header nav{float:right; padding:0px 0px 20px 0px;}
 #header nav ul{margin-top:20px;}
