@@ -55,12 +55,12 @@ h1, h2, h3, h4, h5, h6{margin:0; padding:0; font-size:20px; font-weight:normal; 
 
 #header, #header a{color:#C0BAB6; background-color:#333333;}
 
-#header #hgroup{float:left; padding:20px 0;}
+#header #hgroup{float:left; padding:20px 0px 0px 0px;}
 #header #hgroup h1, #header #hgroup h2{}
 #header #hgroup h1{font-size:33px;}
 #header #hgroup h2{font-size:13px;}
 
-#header nav{float:right; padding:20px 0;}
+#header nav{float:right; padding:0px 0px 20px 0px;}
 #header nav ul{margin-top:20px;}
 #header nav li{display:inline; margin-right:15px; text-transform:uppercase;}
 #header nav li.last{margin-right:0;}
@@ -109,8 +109,8 @@ h1, h2, h3, h4, h5, h6{margin:0; padding:0; font-size:20px; font-weight:normal; 
 #container #content #speakers ul li.odd{float:left;}
 #container #content #speakers ul li.even{float:right;}
 
-#container #content #organizers img.organizer{width:150px; height:180px; margin:0 0 15px 0; padding:4px; border:1px solid #666666;}
-#container #content #speakers img.speaker{width:150px; height:180px; margin:0 0 15px 0; padding:4px; border:1px solid #666666;}
+#container #content #organizers img.organizer{width:110px; margin:0 0 15px 0; padding:4px; border:1px solid #666666;float:left;margin-right:20px}
+#container #content #speakers img.speaker{width:110px; margin:0 0 15px 0; padding:4px; border:1px solid #666666;float:left;margin-right:20px}
 
 /*----------------------------------------------Footer-------------------------------------*/
 
