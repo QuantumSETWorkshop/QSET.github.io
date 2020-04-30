@@ -61,6 +61,7 @@ h1, h2, h3, h4, h5, h6{margin:0; padding:0; font-size:20px; font-weight:normal; 
 #header #hgroup h1{font-size:33px;}
 #header #hgroup h2{font-size:13px;}
 img#qsetlogo{float:left !important; width:190px !important; margin: 0px 50px 10px 0px !important}
+img#ieeelogo{float:right !important; width:190px !important; margin: 0px 50px 10px 0px !important}
 
 #header nav{float:right; padding:0px 0px 20px 0px;}
 #header nav ul{margin-top:20px;}
@@ -112,7 +113,7 @@ img#qsetlogo{float:left !important; width:190px !important; margin: 0px 50px 10p
 #container #content #speakers ul li.even{float:right;}
 
 #container #content #organizers img.organizer{width:110px; margin:0 0 15px 0; padding:4px; border:1px solid #666666;float:left;margin-right:20px}
-#container #content #speakers img.speaker{width:110px; margin:0 0 15px 0; padding:4px; border:1px solid #666666;float:left;margin-right:20px}
+img.speaker{width:80px; margin:0 0 15px 0; padding:4px; border:1px solid #666666;float:left;margin-right:20px}
 
 /*----------------------------------------------Footer-------------------------------------*/
 
